@@ -1,7 +1,7 @@
 # APIUserFinloop
 
-#instalar dependencias
+# instalar dependencias
 npm install
 
-#iniciar proyecto
+# iniciar proyecto
 npm run dev
